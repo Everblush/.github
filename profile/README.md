@@ -3,7 +3,7 @@
 </div> 
 
 <h1 align="center">Everblush</h1> 
-<h4 align="center"><i>A Dark, Vibrant and Beatiful colorscheme for your desktop</i></h4> 
+<h4 align="center"><i>A dark, vibrant, and beautiful color scheme for you.</i></h4> 
 
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div> 
 
 # About 
-Everblush is colorscheme like the others in the programmer / ricer's community. But with beautiful syntax highlighting and colors.
+Everblush is an aesthetically pleasing color scheme with beautiful syntax highlighting and colors.
 
 # Colors
 <table align="center">
@@ -79,7 +79,7 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 </tr>
 <tr>
     <td><img src="https://raw.githubusercontent.com/Everblush/.github/main/assets/Rectangle%209.png"></td>
-    <td><code>White - Foreground</code></td>
+    <td><code>White (Foreground)</code></td>
     <td><code>#dadada</code></td>
     <td><code>rgb(218, 218, 218)</code></td>
 </tr>
@@ -89,8 +89,8 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 ## Editors
 - [Vim](https://github.com/Everblush/everblush.vim)
 - [Neovim](https://github.com/Everblush/everblush.nvim)
-- [VsCode](https://github.com/Everblush/vscode)
-- [Obsidian](https://github.com/Everblush/Obsidian) - (markdown editor)
+- [VSCode](https://github.com/Everblush/vscode)
+- [Obsidian](https://github.com/Everblush/Obsidian)
 - [Doom Emacs](https://github.com/Everblush/doomemacs)
 - [Emacs](https://github.com/Everblush/emacs)
 - [Lite-XL](https://github.com/Everblush/lite-xl)
@@ -127,8 +127,4 @@ Everblush is colorscheme like the others in the programmer / ricer's community. 
 - [Wallpapers](https://github.com/Everblush/wallpapers)
 
 ## Contribution
-- The contribution details will be soon released as they are WIP. 
-
-<div align="center">
-<img style="border-radius: 20px" src="https://raw.githubusercontent.com/Everblush/.github/main/assets/term.png" alt="everblush-syntax">
-</div> 
+- The contribution details are WIP and will be out soon.
